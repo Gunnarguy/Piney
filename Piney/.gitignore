@@ -1,0 +1,155 @@
+# Python virtual environment
+echo ##active_line2##
+venv/
+echo ##active_line3##
+
+echo ##active_line4##
+# Byte-compiled / optimized / DLL files
+echo ##active_line5##
+__pycache__/
+echo ##active_line6##
+*.py[cod]
+echo ##active_line7##
+*.class
+echo ##active_line8##
+
+echo ##active_line9##
+# C extensions
+echo ##active_line10##
+*.so
+echo ##active_line11##
+
+echo ##active_line12##
+# Distribution / packaging
+echo ##active_line13##
+.Python
+echo ##active_line14##
+build/
+echo ##active_line15##
+develop-eggs/
+echo ##active_line16##
+dist/
+echo ##active_line17##
+downloads/
+echo ##active_line18##
+eggs/
+echo ##active_line19##
+.eggs/
+echo ##active_line20##
+lib/
+echo ##active_line21##
+lib64/
+echo ##active_line22##
+parts/
+echo ##active_line23##
+sdist/
+echo ##active_line24##
+var/
+echo ##active_line25##
+wheels/
+echo ##active_line26##
+share/python-wheels/
+echo ##active_line27##
+*.egg-info/
+echo ##active_line28##
+.installed.cfg
+echo ##active_line29##
+*.egg
+echo ##active_line30##
+MANIFEST
+echo ##active_line31##
+
+echo ##active_line32##
+# PyInstaller
+echo ##active_line33##
+dist/
+echo ##active_line34##
+
+echo ##active_line35##
+# Installer logs
+echo ##active_line36##
+debug.log
+echo ##active_line37##
+
+echo ##active_line38##
+# Unit test / coverage reports
+echo ##active_line39##
+htmlcov/
+echo ##active_line40##
+.tox/
+echo ##active_line41##
+.nox/
+echo ##active_line42##
+.coverage
+echo ##active_line43##
+.coverage.*
+echo ##active_line44##
+.cache
+echo ##active_line45##
+nosetests.xml
+echo ##active_line46##
+coverage.xml
+echo ##active_line47##
+*.cover
+echo ##active_line48##
+.hypothesis/
+echo ##active_line49##
+
+echo ##active_line50##
+# Jupyter Notebook
+echo ##active_line51##
+.ipynb_checkpoints
+echo ##active_line52##
+
+echo ##active_line53##
+# Environment variables file
+echo ##active_line54##
+.env
+echo ##active_line55##
+
+echo ##active_line56##
+# macOS clutter
+echo ##active_line57##
+.DS_Store
+echo ##active_line58##
+
+echo ##active_line59##
+# Editor
+echo ##active_line60##
+__pycache__/
+echo ##active_line61##
+*.py[cod]
+echo ##active_line62##
+*.class
+echo ##active_line63##
+
+echo ##active_line64##
+# Visual Studio Code workspace settings
+echo ##active_line65##
+.vscode
+echo ##active_line66##
+.idea
+echo ##active_line67##
+
+echo ##active_line68##
+# Pytest
+echo ##active_line69##
+.pytest_cache
+echo ##active_line70##
+
+echo ##active_line71##
+# system files
+echo ##active_line72##
+*.DS_Store
+echo ##active_line73##
+
+echo ##active_line74##
+# Vim
+echo ##active_line75##
+*.swp
+echo ##active_line76##
+*.swo
+echo ##active_line77##
+
+echo ##active_line78##
+
